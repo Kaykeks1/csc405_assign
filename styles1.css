@@ -1,0 +1,184 @@
+.anav{
+	text-decoration:none;
+	color:black;
+}
+.anav:visited{
+	color:black;
+}
+.anav:hover{
+	color:black;
+}
+a{
+	text-decoration:none;
+}
+
+#HeadText1{
+	color:white;
+	font-size:20px;
+	font-style:italic;
+	font-weight:bold;
+	float:right;
+	position:absolute;
+	top:40px;
+}
+#HeadText2{
+	color:white;
+	font-size:20px;
+	font-style:italic;
+	font-weight:bold;
+	position:absolute;
+	top:50px;
+	
+}
+#HeadText3{
+	color:white;
+	font-size:20px;
+	font-style:italic;
+	font-weight:bold;
+	position:absolute;
+	top:50px;
+	
+	
+}
+tr th{
+	font-size:20px;
+	padding: 10px;
+}
+header{
+	padding:20px;
+	background-color:grey;//#669999;
+	text-align:right;
+	
+}
+
+nav{
+
+	padding:0;
+	background-color:#CCCCFF;
+	
+}
+
+body{
+	margin:0;
+	background: url('wall2.jpg') no-repeat ;
+	background-attachment:fixed;
+	background-size: cover;
+	
+	
+}
+
+
+#i1{
+	height:8%;
+	width:6%;
+	border-radius:50%;
+}
+#i2{
+	height:8%;
+	width:10%;
+	border-radius:8px;
+
+}
+#i3{
+	height:8%;
+	width:10%;
+	border-radius:8px;
+	
+}
+#LeftBody2{
+	color:#000033;
+	position:absolute;
+	height:800px;
+	width:30%;
+	float:left;
+}
+#RightBody2{
+	padding:20px;
+	padding-left:50px;
+	position:absolute;
+	left:30%;
+	height:800px;
+	width:60%;
+	float:right;
+}
+#propic{
+	height:20%;
+	width:50%;
+	border-radius:50%;
+}
+
+.Header{
+	padding:0;
+	background-color:#CCCCFF;
+	color:grey;
+}
+#IndexAvi{
+	margin-top:100px;
+	border-radius:50%;
+}
+#HomeBody{
+	margin-top:100px;
+	paddding-top:10px;
+	padding-bottom:80px;
+	margin-bottom:50px;
+	border:solid black 1px;
+	background-color:#669999;
+	color:white;
+	border-radius:10px;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-weight:bold;
+	font-size:2.5em;
+	width:30%;
+	Height:5%;
+
+}
+#LeftBody3{
+	border-right:solid grey 1px;
+	padding:30px;
+	padding-top:100px;
+	position:absolute;
+	float:left;
+	width:65%;
+	height:800px;
+	
+}
+#RightBody3{
+	position:absolute;
+	float:right;
+	width:24%;
+	height:600px;
+	padding:30px;
+	padding-top:100px;
+	
+	left:70%;
+	
+	
+}
+#input{
+	//background-color:grey;
+	border-radius:8px;
+}
+textarea{
+	border-radius:10px;
+	height:300px;
+	width:500px
+}
+#butt{
+	border-radius:5px;
+	background-color:#CCCCFF;
+}
+a img{                                                                                              
+	border-radius:50%;
+	height:35px;
+	width:35px;
+	margin-left:20px;
+	margin-top:50px;
+}
+footer{
+
+	padding:20px;
+	background-color:grey;//#669999;
+}
+#Content{
+	height:900px;
+}
